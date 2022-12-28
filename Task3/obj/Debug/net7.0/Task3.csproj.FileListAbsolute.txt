@@ -1,0 +1,15 @@
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\bin\Debug\net7.0\Task3.exe
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\bin\Debug\net7.0\Task3.deps.json
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\bin\Debug\net7.0\Task3.dll
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\bin\Debug\net7.0\Task3.pdb
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\Task3.csproj.AssemblyReference.cache
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\Task3.dll
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\refint\Task3.dll
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\Task3.pdb
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+C:\Users\Володя\Desktop\Homework3\HomeWork_3\Task3\obj\Debug\net7.0\ref\Task3.dll
